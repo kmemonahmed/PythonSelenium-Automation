@@ -1,3 +1,3 @@
 # QupsAssignment
-Allure Report Link : 
-Assignment execution video Link : 
+# Allure Report Link : https://kmemonahmed.github.io/QupsAssignmentAllureReport/
+# Assignment execution video Link : https://youtu.be/zgVuflSKcbw
